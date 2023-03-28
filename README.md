@@ -11,4 +11,4 @@
 ## i) ( ) float x = 2.7;
 ## j) ( ) int a = false;
 
-# 
+## a) F b) V c) F d) V e) F f) V g) F h) V i) V j) F 
